@@ -14,15 +14,15 @@ And the Dmenu will be compiled and installed.
 
 # Patches
 
-dmenu-border-4.9.diff
-dmenu-center-20200111-8cd37e1.diff
-dmenu-fuzzymatch-4.9.diff
-dmenu-highlight-4.9.diff
-dmenu-highpriority-4.9.diff
-dmenu-lineheight-5.0.diff
-dmenu-morecolor-20190922-4bf895b.diff
-dmenu-mousesupport-5.0.diff
-dmenu-navhistory-20200709.diff
+- dmenu-border-4.9.diff
+- dmenu-center-20200111-8cd37e1.diff
+- dmenu-fuzzymatch-4.9.diff
+- dmenu-highlight-4.9.diff
+- dmenu-highpriority-4.9.diff
+- dmenu-lineheight-5.0.diff
+- dmenu-morecolor-20190922-4bf895b.diff
+- dmenu-mousesupport-5.0.diff
+- dmenu-navhistory-20200709.diff
 
 # config.h
 
