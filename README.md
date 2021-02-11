@@ -2,6 +2,14 @@
 
 This is my Dmenu build, with my patches and configs in `config.h`.
 
+# Install
+
+You can install this package using Arch Linux AUR, using [dmenu-edersonferreira-git](https://aur.archlinux.org/packages/dmenu-edersonferreira-git/) package, like:
+
+```
+yay -S dmenu-edersonferreira-git
+```
+
 # Build
 
 To build this Dmenu, use:
