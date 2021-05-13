@@ -10,6 +10,8 @@ You can install this package using Arch Linux AUR, using [dmenu-edersonferreira]
 yay -S dmenu-edersonferreira
 ```
 
+And install the fonts: `JetBrains Mono Bold Nerd Font Complete Mono.ttf` and `JetBrains Mono Bold Nerd Font Complete.ttf` in a fonts directory, like moving to `~/.fonts`
+
 # Build
 
 To build this Dmenu, use:
@@ -17,6 +19,8 @@ To build this Dmenu, use:
 ```
 sudo make install
 ```
+
+And install the fonts: `JetBrains Mono Bold Nerd Font Complete Mono.ttf` and `JetBrains Mono Bold Nerd Font Complete.ttf` in a fonts directory, like moving to `~/.fonts`
 
 And the Dmenu will be compiled and installed.
 
