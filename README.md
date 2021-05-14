@@ -2,16 +2,6 @@
 
 This is my Dmenu build, with my patches and configs in `config.h`.
 
-# Install
-
-You can install this package using Arch Linux AUR, using [dmenu-edersonferreira](https://aur.archlinux.org/packages/dmenu-edersonferreira) package, like:
-
-```
-yay -S dmenu-edersonferreira
-```
-
-And install the fonts: `JetBrains Mono Bold Nerd Font Complete Mono.ttf` and `JetBrains Mono Bold Nerd Font Complete.ttf` in a fonts directory, like moving to `~/.fonts`
-
 # Build
 
 To build this Dmenu, use:
