@@ -1,0 +1,6 @@
+build:
+  - sudo make install
+remove:
+  - sudo rm -rf /usr/local/bin/dmenu
+  - sudo rm -rf /usr/local/bin/dmenu_run
+  - sudo rm -rf /usr/local/bin/dmenu_path
